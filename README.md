@@ -17,6 +17,7 @@
 
 
 + Программа Passing_LGmode_several_screen.py моделилирует прохождения многомерных ЛГ мод через серию из 10 фазовых экранов
+  
 ![image](https://github.com/user-attachments/assets/c8df4576-c4c2-4e87-b1fb-076a4fda0359)
 ![image](https://github.com/user-attachments/assets/ad403c69-5877-4da2-bcd6-6b02b0d1d253)
 
